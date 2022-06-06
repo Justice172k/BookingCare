@@ -72,4 +72,5 @@ module.exports = {
     editCrud: editCrud,
     putCrud: putCrud,
     deleteCrud: deleteCrud,
+
 } 
